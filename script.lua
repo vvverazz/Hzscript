@@ -481,7 +481,7 @@ local function GRFANA_fake_script() -- Autoparry.LocalScript
 			local MAX_RADIUS = 160
 			local SPEED_DIVISOR = 1.7
 			local MIN_SPEED = 5
-			local PARRY_DELAY = 0.12
+			local PARRY_DELAY = 0.10
 	
 			local RunService = game:GetService("RunService")
 	
